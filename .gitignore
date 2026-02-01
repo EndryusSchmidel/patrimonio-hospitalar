@@ -1,0 +1,12 @@
+# Ignorar arquivos de compilação
+target/
+*.class
+
+# Ignorar configurações da IDE (IntelliJ / VS Code)
+.idea/
+.vscode/
+*.iml
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
